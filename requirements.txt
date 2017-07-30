@@ -1,0 +1,5 @@
+tweepy
+nltk
+pandas
+wordcloud
+matplotlib
